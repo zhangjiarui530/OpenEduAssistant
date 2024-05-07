@@ -3,6 +3,8 @@ The OpenEduAssistant personalized course intelligent assistant represents a brea
 
 `python run.py`
 
-![](C:\Users\Intel\Pictures\Screenshots\屏幕截图 2024-05-07 164657.png)
+![](.\class_assistant\pic\front.png)
+
+
 
 
